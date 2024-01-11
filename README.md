@@ -46,7 +46,8 @@ frame에서 검출한 크로마키의 왼쪽 모서리의 x값의 차를 통해 
 전체 코드에서 개인적으로 혼자서만 구현한 코드가 있다.
 ### 3. 크로마키와 동일 선상에 있을 수 있도록 각도 조정
 이 부분은 개인의 힘으로 구현하였다.
-#### pgonCorners
+#### pgonCorners - <https://kr.mathworks.com/matlabcentral/fileexchange/74181-find-vertices-in-image-of-convex-polygon>
+![pgoncorners](https://github.com/jeongdonggi/dron/assets/100845304/f9bd3ac3-a3f1-41e2-ae27-9cc87357a83e)
 
 여기서 pgonCorners란 다각형 이미지의 모서리를 구하는 함수이다.
 
