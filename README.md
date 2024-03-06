@@ -39,13 +39,9 @@ frame에서 검출한 크로마키의 왼쪽 모서리의 x값의 차를 통해 
 
 ## 개인 내용
 
-전체적인 코드 업데이트는 [정동기] 파일에 있다.
-
-전체적으로 개인 코딩으로 코드를 전체적으로 구현한 후 모여서 업데이트를 하였다.
-
-전체 코드에서 개인적으로 혼자서만 구현한 코드가 있다.
+전체 코드에서 기능을 맡아서 구현한 코드가 있다.
 ### 3. 크로마키와 평행하게 마주 볼 수 있도록 각도 조정
-이 부분은 개인의 힘으로 구현하였다.
+
 #### pgonCorners - <https://kr.mathworks.com/matlabcentral/fileexchange/74181-find-vertices-in-image-of-convex-polygon>
 ![pgoncorners](https://github.com/jeongdonggi/dron/assets/100845304/f9bd3ac3-a3f1-41e2-ae27-9cc87357a83e)
 
