@@ -17,6 +17,7 @@
 
 ## Github Repository
 #### Github - <https://github.com/jaeuklim/Jangsu> (private)
+코드 설명은 드론 공모전.md에 있습니다
 
 ## 주요 기능
 #### 1. frame의 rgb값을 hsv로 변경
